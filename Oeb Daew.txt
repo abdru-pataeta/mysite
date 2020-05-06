@@ -1,0 +1,151 @@
+   n              ____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+
+			______[[[[ WEB DEV ]]]]______
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+
+
+			[[[[[[ mdn docs ]]]]]]]]fore mor
+
+
+
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+			_________HTML_________
+
+
+[[boilerplate]]
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+</head>
+<body>
+<h1>/h1
+</body>
+</html>
+_____________
+
+<br>
+<p>/
+<em>/
+<i>/
+<b>
+<strong>/
+<hr>
+<ul> <li>/  </ul>
+<ol>/
+<img src="img adress" alt="alternateNameuCanCall">
+<a href="link">word</a>
+<table> <tr> <td>/ </tr> </table>
+<thead>/
+<tbody>/
+<tfoot>/
+<th>/
+<table border=" "> shitty
+<table cellspacing=" "> shitty
+<form> <label>, <input type="text/submit/color/checkbox/password/etc"> <textarea> </input,/label,/textarea> </form>b
+
+
+
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+
+		_________CSS_________
+
+[[[mdn css colors]]]
+
+_________________________________________________________________
+
+<body style ="background-colour: powderblue;"> </>
+----
+<style>
+
+ body{
+       background-colour: powderblue;
+     }
+
+hr{
+     background-colour: powderblue;
+     border-style: none;
+     height: 2px;
+     width: 75%
+	[ border-style: dotted none none;
+	  height: 0px;
+          or
+	  border-style: none;
+	  border-top-style: dotted;
+	  -
+	  border-width: 7px;
+	  border-color: grey;
+	  ]
+   }
+
+h1{
+     color: #66BFBF;
+   }
+
+</style>
+------------------------------------------------------------
+for extrernal css save style in diff file and link
+<head>
+ <link rel="sstylesheet href"file.css">
+</head>
+----------------------------------------------
+
+class selectors
+tag-img, class-broccooli
+<img class="broccoli"> in html | .broccoli{
+                               |              bacgkround colur: green;
+                               |           }
+
+id selctors
+<h1 id="heading>hello</h1>     | #heading{                   id should be uniqe use only 1s
+                               |             colur: blue;
+                               |          }
+
+boder-radius:100%;
+img: hover{
+    background-color:gold;
+ }
+
+-----------------------
+
+<div> </>
+<span></>
+
+display:inline/block/inline-block/none;
+visibility:hidden;
+
+position:relative/absolute/fixed
+top/left/bottom/right:100px;
+
+text-align:center;
+margin:0 auto 0 auto;
+padding: 30px;
+
+
+[[[[google fonts, to embed]]]
+
+[[[flaticon.com, giphy]]]
+
+font-size:520rem;
+font-weight: normal;
+line-height: 2;
+
+float:left;
+clear:left;
+
+[[[CSS Button Creator]]]
